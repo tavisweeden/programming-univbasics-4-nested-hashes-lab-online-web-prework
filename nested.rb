@@ -140,8 +140,8 @@ end
 
 
 
- adding_to_dennis
-	progradefmmer_hash = 
+def adding_to_dennis
+	programmer_hash = 
  		{
         :grace_hopper => {
           :known_for => "COBOL",
